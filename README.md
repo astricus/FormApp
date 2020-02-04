@@ -14,7 +14,7 @@ This is a test form submitting application.
 
 1. Install the following:
    - [.NET Core 3.1](https://www.microsoft.com/net/core)
-   - [Node.js >= v8](https://nodejs.org/en/download/)
+   - [Node.js](https://nodejs.org/en/download/)
 2. Clone the repo or download ZIP.
 3. Open terminal and `cd` to the directory of the project.
 4. Run `dotnet run`.
