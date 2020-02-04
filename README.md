@@ -6,7 +6,7 @@ This is a test form submitting application.
   - ASP.NET Core 3.1
 - Client
   - React 16
-  - Webpack 2 for asset bundling and HMR (Hot Module Replacement)
+  - Webpack
   - Axios
   - Material UI
 
