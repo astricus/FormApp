@@ -1,5 +1,5 @@
 # FormApp
-This is a test form submitting application.
+This is a test form submitting application. It was created using a React project template with ASP.NET Core, Material UI Sign-in side template.
 
 ## Overview of Stack
 - Server
