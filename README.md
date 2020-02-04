@@ -10,7 +10,7 @@ This is a test form submitting application.
   - Axios
   - Material UI
 
-## Setup
+## Setup and run
 
 1. Install the following:
    - [.NET Core 3.1](https://www.microsoft.com/net/core)
